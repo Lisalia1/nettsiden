@@ -21,12 +21,12 @@ body{
 
 /* Profilbilde wrapper med bakgrunnsfarge og sentrering */
 .profile-wrap{
-  width: 200px;
-  height: 200px;
+  width: 220px;
+  height: 220px;
   background: rgba(255,255,255,0.12);
   display: grid;
   place-items: center;
-  border-radius: 999px;
+  border-radius: 99px;
   padding: 10px;
 }
 
